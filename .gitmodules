@@ -1,0 +1,3 @@
+[submodule "timesedler"]
+	path = timesedler
+	url = git@ssh.dev.azure.com:v3/KrifaDevOps/AI%20i%20Krifa/timesedler
